@@ -9,11 +9,12 @@
 <a href="https://www.instagram.com/darsan_gautam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
-
+<br/>
 <a href="https://github.com/darsan012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darsan012&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsan012&theme=buefy&layout=compact" />
 </a>
+<br/>
 
 **Languages and Tools:** 
 <p align="left">
