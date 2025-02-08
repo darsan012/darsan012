@@ -65,15 +65,19 @@ I love building scalable applications, exploring new technologies, and contribut
 
 ## 🤝 **Let's Connect**  
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-gautam-886393226/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/darsan_gautam/)
+  <a href="https://www.linkedin.com/in/darshan-gautam-886393226/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/darsan_gautam/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
 ## 📈 **Profile Visits**  
 <p align="center">
-  ![Profile Visits](https://komarev.com/ghpvc/?username=darsan012&color=blue&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=darsan012&color=blue&style=flat-square" alt="Profile Visits" />
 </p>
 
 ---
